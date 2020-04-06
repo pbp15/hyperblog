@@ -1,4 +1,5 @@
 body {
+  background: rgb(173, 167, 199);
   color: deeppink;
   text-align: center;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
@@ -8,12 +9,17 @@ body {
 }
 
 #cabecera {
-  background: #33a;
+  background:#37488b;
   box-shadow: 0px 5px 10px 0px royalblue;
   color: aliceblue;
   font-weight: bold;
   margin: 0;
-  padding: 0.5em;
+  padding: 0.5em 0 0.5em 2em;
+}
+#cabecera #logo {
+  width: 35px;
+  vertical-align: middle;
+  border-radius: 9%;
 }
 
 #cabecera #tagline {
@@ -70,6 +76,20 @@ body {
   font-size: 1em;
   font-family:fantasy;
 
+}
+
+#post {
+  background: wheat;
+  padding: 1em;
+}
+
+
+#footers {
+  background: rgb(133, 123, 123);
+  color: white;
+  text-align: center;
+  padding: 15px;
+  border: 4px dashed turquoise;
 }
 
 
