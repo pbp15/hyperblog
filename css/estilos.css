@@ -94,6 +94,20 @@ body {
 
 
 
+#reloj {
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color:rgb(230, 53, 53);
+  border :5px dashed rgb(181, 212, 40);
+  width: 30%;
+  padding: 30px;
+  margin:0px auto;
+
+}
+
+
+
 
 
 
