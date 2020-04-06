@@ -106,6 +106,50 @@ body {
 
 }
 
+/*contactos footer*/
+
+form input [type="text"],
+[type="email"]{
+  padding: 5px;
+  border-radius: 2px;
+  border-color: #ccc;
+  width: 80%;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+form input[type="submit"] {
+  background: rgb(177, 37, 37);
+  padding: 10px;
+  border: 1px solid black;
+  cursor: pointer;
+  justify-content: center;
+  padding: 15px;
+  width: 15%;
+
+
+
+}
+
+#form_contact{
+  width: 50%;
+  margin-top: 15px;
+  font-family: sans-serif;
+ 
+}
+
+#form_contact label{
+  width: 100%;
+  display: block;
+  margin-top: 5px;
+
+}
+
+
+#eventos_general {
+  width: 50%;
+  display: flex;
+}
 
 
 
