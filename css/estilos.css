@@ -73,6 +73,15 @@ body {
 }
 
 
+#footers {
+  background: rgb(133, 123, 123);
+  color: white;
+  text-align: center;
+  padding: 15px;
+  border: 4px dashed turquoise;
+}
+
+
 
 
 
